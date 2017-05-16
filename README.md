@@ -1,8 +1,4 @@
-<html>
-<head><title>mylove</title></head>
-<body>asa</body>
-</html>
-## Welcome to GitHub Pages
+## 我爱霜子
 
 You can use the [editor on GitHub](https://github.com/814386974/text/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
